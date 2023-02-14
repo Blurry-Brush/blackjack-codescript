@@ -183,6 +183,7 @@ function App() {
           <h1 className="text-white text-sm">Use stand to show results</h1>
           <h1 className="text-white text-sm">Closer to the 21 value of total cards wins</h1>
           <h1 className="text-white text-sm">If the value is greater than 21, then automatically player loses</h1>
+          <h1 className="text-white text-sm">again press the click to play button if your cards doesn't shows up</h1>
         </div>
       </div>
     </div>
